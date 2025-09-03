@@ -1,4 +1,8 @@
 
+<div align="center">
+  pic.jpg
+</div>
+
 # Strategy-Slip
 
 **Strategy-Slip** is a decision optimization tool designed for everyone. It combines operations research, reinforcement learning, and large language models to help users make better decisions in complex environments.
