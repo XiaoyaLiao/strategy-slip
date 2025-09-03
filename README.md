@@ -17,7 +17,7 @@
 
 ## 🧭 Philosophy
 
-Strategy-Slip is like a slip of paper in your pocket — lightweight, accessible, and powerful. It offers rational suggestions at critical moments, without being anthropomorphized.
+Strategy-Slip is like a slip of paper in your pocket — lightweight, accessible, and powerful. It offers rational suggestions at critical moments.
 
 ---
 
@@ -57,7 +57,7 @@ This project is licensed under the MIT License.
 
 ## 🧭 工具理念
 
-纸条就像你口袋里的小纸条——轻巧、易用、但功能强大。它在关键时刻提供理性建议，而不是拟人化的“谋士”。
+纸条就像你口袋里的小纸条——轻巧、易用、但功能强大。它在关键时刻提供理性建议。
 
 ---
 
